@@ -9,6 +9,7 @@ git clone git@github.com:username/google-homepage.git
 Zie Web Development 101 PROJECT: PRACTICING GIT BASICS
 
 Dingen om niet te vergeten:
+
 touch README.md
 
 git status (shown in red, which means that this file is not staged)
